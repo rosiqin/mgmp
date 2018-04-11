@@ -1,3 +1,4 @@
 <?php
-echo "haloo... saya lagi belajar git";
+echo "haloo... saya lagi belajar git nih !";
+
 ?>
